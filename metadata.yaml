@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9039
     wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23024#Grimm-Tales-Made-Gay
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-10-13'
 gutenberg_type: Text
