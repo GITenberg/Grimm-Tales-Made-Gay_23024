@@ -1,0 +1,36 @@
+_repo: Grimm-Tales-Made-Gay_23024
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Levering, Albert
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '25625'
+    url: http://www.gutenberg.org/2009/agents/25625
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carryl, Guy Wetmore
+    birthdate: 1873
+    deathdate: 1904
+    gutenberg_agent_id: '9039'
+    url: http://www.gutenberg.org/2009/agents/9039
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2007-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcsh 'Fairy tales -- Humor'
+- !lcc 'PS'
+title: Grimm Tales Made Gay
+url: http://www.gutenberg.org/ebooks/23024
